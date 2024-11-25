@@ -3,3 +3,5 @@
 Software Design assignment (OFC using software design concept + OOP concept)
 
 Read my SRS, SDS for more info
+
+Provided screenshot to have an overview
